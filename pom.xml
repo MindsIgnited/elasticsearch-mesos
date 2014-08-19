@@ -15,10 +15,10 @@
         <elasticsearch-mesos.version>1</elasticsearch-mesos.version>
 
         <!-- language & dependency versions -->
-        <java.abi>1.6</java.abi>
+        <java.abi>1.7</java.abi>
         <scala.version>2.10.4</scala.version>
-        <elasticsearch.version>1.1.0</elasticsearch.version>
-        <mesos.version>0.18.0</mesos.version>
+        <elasticsearch.version>1.3.2</elasticsearch.version>
+        <mesos.version>0.19.0</mesos.version>
         <logback.version>1.0.9</logback.version>
 
     </properties>
